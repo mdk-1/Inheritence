@@ -1,0 +1,2 @@
+# Inheritence
+ AI Inheritence & Polymorphis
